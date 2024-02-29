@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tBunnyEnabler", "tBunnyEnabler\tBunnyEnabler.csproj", "{CB956462-A8AF-4CA6-87FB-C7A2A38DA305}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunny", "Bunny\Bunny.csproj", "{CB956462-A8AF-4CA6-87FB-C7A2A38DA305}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
