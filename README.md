@@ -1,8 +1,8 @@
-# tBunnyEnabler
+# Bunny
 
-> Enable the bunny pet in Terraria without the Collector's Edition
+Gives you access to the Bunny pet in Terraria. 
 
 ## Usage
 
-1. Run the program
-2. If it says `Done!`, it was successful
+1. Open the executable
+2. Done.
